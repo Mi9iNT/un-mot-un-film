@@ -1,0 +1,14 @@
+$BREAKPOINT-DESK: "only screen and (min-width: 1280px)";
+$BREAKPOINT-TABLET-LAND: "only screen and (min-width: 975px)";
+$BREAKPOINT-TABLET: "only screen and (min-width: 600px)";
+$BREAKPOINT-MOBILE-LAND: "only screen and (min-width: 200px)";
+@media #{$BREAKPOINT-MOBILE-LAND} {
+    .home-page {
+        margin: 1rem;      
+    }
+}
+@media #{$BREAKPOINT-DESK} {
+    .home-page {
+        margin: 1rem;
+    }
+}

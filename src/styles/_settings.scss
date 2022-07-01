@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "font-1";
+  src: url(../assets/fonts/Dongle-Regular.ttf);
+}
+@font-face {
+  font-family: "font-2";
+  src: url(../assets/fonts/Dongle-Light.ttf);
+}
+
+$font-1: "font-1", sans-serif;
+$font-2: "font-2", sans-serif;
+
+$color-1: #610303;
+$color-2: #212040;
+$color-3: rgb(100, 100, 100);
+$sombre: #180000;
+$black: #000000;
+$white: rgb(238, 238, 238);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: $font-1;
+}
+
+$BREAKPOINT-DESK: "only screen and (min-width: 1280px)";
+$BREAKPOINT-TABLET-LAND: "only screen and (min-width: 975px)";
+$BREAKPOINT-TABLET: "only screen and (min-width: 600px)";
+$BREAKPOINT-MOBILE-LAND: "only screen and (min-width: 200px)";
+@media #{$BREAKPOINT-MOBILE-LAND} {
+  
+}
+
+body {
+  background: $black;
+  color: $white;
+}
+li {
+  list-style: none;
+}
+.result {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
