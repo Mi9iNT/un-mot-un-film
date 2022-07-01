@@ -2,7 +2,7 @@
   "name": "un-mot-un-film",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Mi9iNT/github.io/un-mot-un-film",
+  "homepage": "https://Mi9iNT/github.io/un-mot-un-film/public",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
