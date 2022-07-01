@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github.io/un-mot-un-film/static/css/main.5c87bcc5.css",
-    "main.js": "/github.io/un-mot-un-film/static/js/main.e537ca04.js",
-    "static/media/Dongle-Regular.ttf": "/github.io/un-mot-un-film/static/media/Dongle-Regular.be19c2ab1576230dd28d.ttf",
-    "static/media/Dongle-Light.ttf": "/github.io/un-mot-un-film/static/media/Dongle-Light.099c1b232ee32aedbc6d.ttf",
-    "static/media/moilune.png": "/github.io/un-mot-un-film/static/media/moilune.67fef94f2aa029d9df37.png",
-    "static/media/house-solid.svg": "/github.io/un-mot-un-film/static/media/house-solid.cae54a13b6d3e4a3d72f2afd54d08350.svg",
-    "static/media/heart-solid.svg": "/github.io/un-mot-un-film/static/media/heart-solid.4a1eb7e040c34846159507767e8243f1.svg",
-    "index.html": "/github.io/un-mot-un-film/index.html",
-    "main.5c87bcc5.css.map": "/github.io/un-mot-un-film/static/css/main.5c87bcc5.css.map",
-    "main.e537ca04.js.map": "/github.io/un-mot-un-film/static/js/main.e537ca04.js.map"
+    "main.css": "/github.io/un-mot-un-film/relativepath/static/css/main.a9617e98.css",
+    "main.js": "/github.io/un-mot-un-film/relativepath/static/js/main.ac18c170.js",
+    "static/media/Dongle-Regular.ttf": "/github.io/un-mot-un-film/relativepath/static/media/Dongle-Regular.be19c2ab1576230dd28d.ttf",
+    "static/media/Dongle-Light.ttf": "/github.io/un-mot-un-film/relativepath/static/media/Dongle-Light.099c1b232ee32aedbc6d.ttf",
+    "static/media/moilune.png": "/github.io/un-mot-un-film/relativepath/static/media/moilune.67fef94f2aa029d9df37.png",
+    "static/media/house-solid.svg": "/github.io/un-mot-un-film/relativepath/static/media/house-solid.cae54a13b6d3e4a3d72f2afd54d08350.svg",
+    "static/media/heart-solid.svg": "/github.io/un-mot-un-film/relativepath/static/media/heart-solid.4a1eb7e040c34846159507767e8243f1.svg",
+    "index.html": "/github.io/un-mot-un-film/relativepath/index.html",
+    "main.a9617e98.css.map": "/github.io/un-mot-un-film/relativepath/static/css/main.a9617e98.css.map",
+    "main.ac18c170.js.map": "/github.io/un-mot-un-film/relativepath/static/js/main.ac18c170.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c87bcc5.css",
-    "static/js/main.e537ca04.js"
+    "static/css/main.a9617e98.css",
+    "static/js/main.ac18c170.js"
   ]
 }
